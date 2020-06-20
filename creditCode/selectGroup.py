@@ -3,7 +3,7 @@
 '''
 @author: liuchang
 @software: PyCharm
-@file: selectGroup.py.py
+@file: selectGroup.py
 @time: 2020-06-20 09:38
 '''
 # -*- coding: utf-8 -*-
